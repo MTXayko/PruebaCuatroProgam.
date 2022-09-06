@@ -111,12 +111,14 @@
     width: 520px;
     height: 320px;
     transform: translateX(4%);
+    border: 7px solid rgb(255, 255, 255);
 }
 
 #tftlogo{
     width: 520px;
     height: 320px;
     transform: translateX(4%);
+    border: 7px solid rgb(255, 255, 255);
 }
 .seccionimg2{
     text-align: center;
